@@ -1,13 +1,13 @@
 {
     "name": "simple-bot",
     "version": "1.0.0",
-    "description": "This is a simple test and experiment bot",
+    "description": "chotu chai wala",
     "main": "chotu.js",
     "author": "sunil9099",
     "scripts": {
         "start": "node bot.js"
     },
     "dependencies": {
-	"node" : "v12.x"
+	"discord.js" : "v11.2.1"
 	}
 }
