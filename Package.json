@@ -8,6 +8,7 @@
         "start": "node bot.js"
     },
     "dependencies": {
-	"discord.js" : "v11.2.1"
+	"discord.js" : "v11.0.1"
+        "request": "2.81.0"
 	}
 }
